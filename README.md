@@ -14,3 +14,22 @@ User-friendly navigation and product display.
 Search functionality for quick access to products.
 Cart management to view and update selected items.
 Secure user authentication for a personalized experience.
+
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/narendra285/e-shop.git
+   cd e-shop
+
+📈 Future Improvements
+- 🔑 User authentication and login
+- 💳 Payment gateway integration
+- 📊 Admin dashboard for product and order management
+
+
+📬 Contact
+For any queries or feedback, feel free to reach out:
+
+- Name: Narendra
+- Email: dasarinarendra64@gmail.com
+- GitHub: https://github.com/narendra285
